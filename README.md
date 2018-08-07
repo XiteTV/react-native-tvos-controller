@@ -13,7 +13,7 @@ Including "tap","long press","swipe" and "pan" gesture.
 ## Install
 
 ```shell
-npm install --save react-native-tvos-controller
+npm install --save https://github.com/XiteTV/react-native-tvos-controller.git
 ```
 
 ## Automatically link
